@@ -22,7 +22,7 @@ To train a model with downloaded dataset:
 bash ./experiments/scripts/train_mnist.sh
 
 Results on MNIST
-![alt text](https://github.com/JiananLi2016/LayoutGAN-Tensorflow/tree/master/results/MNIST.jpg)
+![Alt text](https://github.com/JiananLi2016/LayoutGAN-Tensorflow/tree/master/results/MNIST.jpg)
 
 
 Author
