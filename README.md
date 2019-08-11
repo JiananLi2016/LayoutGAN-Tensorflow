@@ -7,9 +7,8 @@ https://openreview.net/forum?id=HJxB5sRcFQ.
 Some codes are implemented from https://github.com/carpedm20/DCGAN-tensorflow. 
 
 ## Online Demo
-![](demo/MNIST.gif) 
-<img src="demo/MNIST.gif" width="300" height="300">
-![](demo/Tangram.gif)
+<img src="demo/MNIST.gif" width="400" height="400">
+<img src="demo/Tangram.gif" width="400" height="400">
 
 ## Prerequisites
 
