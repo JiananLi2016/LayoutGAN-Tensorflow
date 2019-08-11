@@ -7,8 +7,7 @@ https://openreview.net/forum?id=HJxB5sRcFQ.
 Some codes are implemented from https://github.com/carpedm20/DCGAN-tensorflow. 
 
 ## Online Demo
-![result](demo/MNIST.gif)
-![result](demo/Tangram.gif)
+![result](demo/MNIST.gif) ![result](demo/Tangram.gif)
 
 ## Prerequisites
 
