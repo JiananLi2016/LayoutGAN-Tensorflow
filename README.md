@@ -29,7 +29,7 @@ For bounding box layout experiments, you can refer to the commented lines in the
 
 
 ## Results on MNIST
-![result](width="100" height="100" src="demo/MNIST.jpg")
+![result]<width="100" height="100" src="demo/MNIST.jpg">
 
 
 
