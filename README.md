@@ -7,9 +7,9 @@ https://openreview.net/forum?id=HJxB5sRcFQ.
 Some codes are implemented from https://github.com/carpedm20/DCGAN-tensorflow. 
 
 ## Online Demo
-MNIST
+MNIST \
 <img src="demo/MNIST.gif" width="400" height="400">
-Tangram
+Tangram \
 <img src="demo/Tangram.gif" width="400" height="400">
 
 ## Prerequisites
@@ -20,10 +20,10 @@ Tangram
 
 ## Usage
 
-First, download the trasformed point layout representation of MNIST dataset from:
+First, download the trasformed point layout representation of MNIST dataset from: \
 https://drive.google.com/file/d/1x_cXGILI5EQvN7ksUH7Kz8-VCPsGnq_S/view?usp=sharing
 
-To train a model with downloaded dataset:
+To train a model with downloaded dataset: \
 $ bash ./experiments/scripts/train_mnist.sh
 
 For bounding box layout experiments, you can refer to the commented lines in the code.
