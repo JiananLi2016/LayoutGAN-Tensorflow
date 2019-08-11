@@ -7,9 +7,9 @@ Some codes are implemented from https://github.com/carpedm20/DCGAN-tensorflow.
 
 ## Online Demo
 Animation videos to demonstrate the movements of all the graphic elements. \
-MNIST \
+- MNIST \
 <img src="demo/MNIST.gif" width="400" height="400"> \
-Tangram \
+- Tangram \
 <img src="demo/Tangram.gif" width="400" height="400">
 
 ## Prerequisites
@@ -31,7 +31,6 @@ For bounding box layout experiments, you can refer to the commented lines in the
 
 ## Results on MNIST
 <img src="demo/MNIST.jpg" width="300" height="300">
-
 
 
 ## Author
