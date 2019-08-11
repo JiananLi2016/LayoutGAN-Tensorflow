@@ -35,6 +35,6 @@ For bounding box layout experiments, you may refer to the commented lines in the
 <img src="demo/MNIST.jpg" width="300" height="300">
 
 
-## Contact
-Upon any questions, please kindly creat an issue.
+## Author
+Jianan Li @
 
