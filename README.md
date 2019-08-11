@@ -21,8 +21,8 @@ Animation videos to demonstrate the movements of all the graphic elements.
 
 ## Usage
 
-First, download the trasformed point layout representation of MNIST dataset from:  \
-https://drive.google.com/file/d/1x_cXGILI5EQvN7ksUH7Kz8-VCPsGnq_S/view?usp=sharing \
+First, download the trasformed point layout representation of MNIST dataset from  \
+https://drive.google.com/file/d/1x_cXGILI5EQvN7ksUH7Kz8-VCPsGnq_S/view?usp=sharing, \
 and put it under ./data directory.
 
 To train a model with downloaded dataset: \
