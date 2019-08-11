@@ -21,6 +21,9 @@ https://drive.google.com/file/d/1x_cXGILI5EQvN7ksUH7Kz8-VCPsGnq_S/view?usp=shari
 To train a model with downloaded dataset:
 bash ./experiments/scripts/train_mnist.sh
 
+Results on MNIST
+![alt text](https://drive.google.com/file/d/1xbbeficxACkzVukLDQLLsH5bVB8tYtbL/view?usp=sharing)
+
 
 Author
 Jianan Li
