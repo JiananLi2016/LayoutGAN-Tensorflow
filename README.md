@@ -36,5 +36,5 @@ For bounding box layout experiments, you may refer to the commented lines in the
 
 
 ## Contact
-Jianan Li \
-lijianan15@gmail.com
+Upon any questions, please kindly creat an issue.
+
