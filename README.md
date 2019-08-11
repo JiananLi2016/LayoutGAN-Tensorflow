@@ -35,4 +35,5 @@ For bounding box layout experiments, you may refer to the commented lines in the
 
 
 ## Author
-Jianan Li lijianan15@gmail.com
+Jianan Li \
+lijianan15@gmail.com
