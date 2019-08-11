@@ -1,5 +1,4 @@
-## LayoutGAN-Tensorflow
-LayoutGAN in Tensorflow
+## LayoutGAN in Tensorflow
 
 Official Tensorflow implementation of "LayoutGAN: Generating Graphic Layouts with Wireframe Discriminators" publishsed in ICLR 2019: 
 https://openreview.net/forum?id=HJxB5sRcFQ. 
@@ -7,8 +6,9 @@ https://openreview.net/forum?id=HJxB5sRcFQ.
 Some codes are implemented from https://github.com/carpedm20/DCGAN-tensorflow. 
 
 ## Online Demo
+Animation videos to demonstrate the movements of all the graphic elements. \
 MNIST \
-<img src="demo/MNIST.gif" width="400" height="400">
+<img src="demo/MNIST.gif" width="400" height="400"> \
 Tangram \
 <img src="demo/Tangram.gif" width="400" height="400">
 
@@ -35,4 +35,4 @@ For bounding box layout experiments, you can refer to the commented lines in the
 
 
 ## Author
-Jianan Li
+Jianan Li lijianan15@gmail.com
