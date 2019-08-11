@@ -8,6 +8,7 @@ Some codes are implemented from https://github.com/carpedm20/DCGAN-tensorflow.
 
 ## Online Demo
 ![](demo/MNIST.gif) 
+<img src="demo/MNIST.gif" width="300" height="300">
 ![](demo/Tangram.gif)
 
 ## Prerequisites
@@ -28,7 +29,6 @@ For bounding box layout experiments, you can refer to the commented lines in the
 
 
 ## Results on MNIST
-![](demo/MNIST.jpg =320x320)
 <img src="demo/MNIST.jpg" width="300" height="300">
 
 
