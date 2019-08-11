@@ -7,8 +7,8 @@ https://openreview.net/forum?id=HJxB5sRcFQ.
 Some codes are implemented from https://github.com/carpedm20/DCGAN-tensorflow. 
 
 ## Online Demo
-![result](demo/MNIST.gif) 
-![result](demo/Tangram.gif)
+![](demo/MNIST.gif) 
+![](demo/Tangram.gif)
 
 ## Prerequisites
 
@@ -29,7 +29,7 @@ For bounding box layout experiments, you can refer to the commented lines in the
 
 
 ## Results on MNIST
-![result]<width="100" height="100" src="demo/MNIST.jpg">
+![](demo/MNIST.jpg)
 
 
 
