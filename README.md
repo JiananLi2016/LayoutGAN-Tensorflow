@@ -5,6 +5,8 @@ https://openreview.net/forum?id=HJxB5sRcFQ.
 
 Some codes are implemented from https://github.com/carpedm20/DCGAN-tensorflow. 
 
+This project is licensed under the terms of the “Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International” license.
+
 ## Online Demo
 Animation videos to demonstrate the movements of all the graphic elements. 
 - MNIST 
